@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -32,7 +32,7 @@
 <div class="conteiner m-4">
     <div class="d-flex justify-content-between align-items-center m-4">
         <h2>Minhas Solicitações</h2>
-        <a href="#" class="btn btn-success">+Nova solicitação</a>
+        <a href="solicitante_abrir_chamado.php" class="btn btn-success">+Nova solicitação</a>
     </div>
 </div>
 

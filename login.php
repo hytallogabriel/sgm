@@ -21,7 +21,7 @@
             <div class="mb-3">
                 <label>Senha</label>
                 <input type="password" id="senha" class="form-control" required>
-            </div>
+            </div>  
             <button type="submit" class="btn btn-primary w-100">Entrar</button>
             <div id="mensagem" class="mt-3 text-center text-danger small"></div>
         </form>
